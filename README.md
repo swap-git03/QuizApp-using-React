@@ -1,2 +1,1 @@
-# QuizApp-using-React
-Quiz App A interactive quiz application built with React, allowing users to test their knowledge and compete with others
+Quiz App is an interactive quiz application built with React, allowing users to test their knowledge. A responsive design for mobile and desktop devices. Built using React, JavaScript, CSS, and HTML, this project is a great example of a interactive web application. Feel free to clone, fork and contribute to the project. 
